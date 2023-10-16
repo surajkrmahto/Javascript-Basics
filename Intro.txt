@@ -1,0 +1,25 @@
+1. What is JavaScript?
+2. What can yo do with it?
+3. Where does JavaScript code run?
+4. JavaScript vs ECMAsCRIPT?
+
+1. JavaScript is one of the most populer and widely used programming language in the world.
+ you can work as frontend, backend or fullstack
+
+
+ 2. Earlier used in browser to bulid interactive web pages.
+ used  by companies like facebook and google
+
+ but now we can also build full blon web or mobile app
+ -> real time networking apps like chat and video streaming services, command line tools or even games
+
+ 3. JavaScript initially design to run only in browser
+ now it can run in browser and node 
+
+ we can run JavaScriptcode directly in browser
+
+ right clik on any blank space of web page---> go to console--> write the code --> hit enter
+
+ 4.
+ MCMAScript is just a specification
+ JavaScript is a programming lanaguage that confirm to this specification
